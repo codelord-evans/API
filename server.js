@@ -24,8 +24,8 @@ app.get("/api/users", (req, res) => {
 // Endpoint to add a new user
 app.post("/api/users", (req, res) => {
   try {
-    const { id,name, email } = req.body;
-    const newUser = { name, email };
+    const { name, email } = req.body;
+    const newUser = { id: generateUserId(), name, email };
 
     // Read existing users data
     const usersData = JSON.parse(fs.readFileSync("./users.json"));

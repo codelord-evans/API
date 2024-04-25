@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "janesmith@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "email": "alexjohnson@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "email": "michaelbrown@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Emily Williams",
+    "email": "emilywilliams@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Daniel Martinez",
+    "email": "danielmartinez@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Sarah Wilson",
+    "email": "sarahwilson@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Christopher Lee",
+    "email": "christopherlee@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Amanda Taylor",
+    "email": "amandataylor@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Matthew Anderson",
+    "email": "matthewanderson@example.com"
+  },
+  {
+    "name": "qwerty",
+    "email": "qwerty@yahoo.com"
+  },
+  {
+    "name": "as",
+    "email": "as@yahoo.com"
+  },
+  {
+    "name": "bebfgbhnjm,",
+    "email": "ben12@gmail.com"
+  },
+  {
+    "name": "Brian Maema",
+    "email": "brianmaema28@gmail.com"
+  },
+  {
+    "name": "zxcvb",
+    "email": "sdfghj@fghjk"
+  },
+  {
+    "name": "asdf",
+    "email": "asdf@dfvgbfh"
+  },
+  {
+    "name": "James Gichugwa",
+    "email": "jamesgichugwa@gmail.com"
+  },
+  {
+    "name": "",
+    "email": ""
+  },
+  {
+    "name": "sdfgh",
+    "email": "hjk@gnm"
+  }
+]

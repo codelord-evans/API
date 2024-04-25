@@ -6,6 +6,11 @@ const PORT = 3000;
 
 app.use(bodyParser.json());
 
+// Since we are not in sql we need to write a simple id generation logic here 
+function generateUserId() {
+  return Math.floor(Math.random() * 10000); // Simple random number generation, you might want to replace this with a more robust method
+}
+
 // Endpoint to get all users
 app.get("/api/users", (req, res) => {
   try {
